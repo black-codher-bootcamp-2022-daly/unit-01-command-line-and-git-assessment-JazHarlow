@@ -1,6 +1,6 @@
 # JAZREENA HARLOW
 
-[Photo of Jazreena] (images/avatar.jpg)
+[Photo of Jazreena](images/avatar.jpg)
 
 ## BIO
 
@@ -14,7 +14,7 @@ I have 9 GCSE'S, 2 A levels and BA Honours Degree in Fashion Design plus additio
 
  I now run a multi-hyphenate business, as a Life Coach, Sound Healer, Human Design Reader and Brand Designer. In the future I plan to use what I have learned here to eventually develop my own app to help support the work I do in the wellbeing space.
 
-**[My favourite website] (https://tonicsiteshop.com/?ref=RadiantWisdom)**
+**[My favourite website](https://tonicsiteshop.com/?ref=RadiantWisdom)**
 
 **Top 5 TV Shows**
 1. Stranger Things
